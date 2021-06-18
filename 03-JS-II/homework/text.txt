@@ -1,0 +1,4 @@
+for: es un ciclo el cual nos permite atravez de un contador realizar una misma tarea una cantidad de veces determinada
+&&: es una condicion logica en español significarua "y" y se usa para evaluar dos o mas situaciones simultaneamente
+||: es una condicion logica la cual sirve para evaluar si un suceso pasa o el otro pasa
+!: es uan condicion que en español significa diferente, es una negacion

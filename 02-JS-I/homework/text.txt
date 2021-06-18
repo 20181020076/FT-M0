@@ -1,0 +1,5 @@
+Variables:son unos contenedores donde se le puede asignar un valor y tiene una direccion de memoria
+Strings: Es un tipo de dato, este especificamente hace referencia a un texto y va encerrado en "" o ''
+Funciones( argumentos, return): Son pedazos de codigos que se realizan cuando estas son llamadas. Estas pueden tener unos argumentos los cuales son datos que se le pasan a la funcion para que esta pueda llevar acabo su objetivo, generalmente retorna un valor, osea devuelve un valor
+Declaraciones if: estas sentencias sirven para evaluar si ocurre un evento, este desarrolle una funcion especifica
+Valores booleanos(true , false); Estos tipos de datos tienen solo dos valores o true or false, el true sirve para afirmar una sentencia y el false para negar algo.
