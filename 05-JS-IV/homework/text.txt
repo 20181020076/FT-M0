@@ -1,0 +1,5 @@
+objetos:
+propiedades:
+metodos:
+bucle:
+Notacion de puntos vs Notacion de corchetes:
