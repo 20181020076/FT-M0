@@ -26,7 +26,7 @@ function numberOfCharacters(str) {
   let array = str.split("");
   let objeto ={};
   array.forEach(e => {
-    if(e === undefined){
+    if(objeto[e] === undefined){
       objeto[e] = 1 ;
     }else{ 
       objeto[e] = objeto[e] + 1;
